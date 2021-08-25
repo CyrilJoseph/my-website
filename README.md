@@ -2,8 +2,4 @@
 
  This is awesome website
  
- Editing the example branch
- 
- Updating the readme file
-
-Updating locally
+Updates made on main on GitHub before rebase
